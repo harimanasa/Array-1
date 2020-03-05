@@ -1,3 +1,8 @@
+//Time : O(n)
+//Space : O(1) since output array is not considered extra
+//Leetcode: Yes
+//No issue
+
 
 class Solution {
     public int[] productExceptSelf(int[] nums) {
